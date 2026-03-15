@@ -1,0 +1,1 @@
+rootProject.name = "threads-and-databases-swing"
